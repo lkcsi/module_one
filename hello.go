@@ -1,9 +1,9 @@
 package module_one
 
-func hello() string {
+func Hello() string {
 	return "hello"
 }
 
-func goodbye() string {
+func Goodbye() string {
 	return "goodbye"
 }
